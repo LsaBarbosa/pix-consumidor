@@ -1,6 +1,6 @@
 package com.santanna.pixconsumidor.config;
 
-import com.santanna.pixconsumidor.dto.PixDTO;
+import com.santanna.pixconsumidor.domain.dto.PixDTO;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;

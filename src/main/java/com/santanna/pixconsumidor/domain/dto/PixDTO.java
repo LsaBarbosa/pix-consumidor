@@ -1,4 +1,4 @@
-package com.santanna.pixconsumidor.dto;
+package com.santanna.pixconsumidor.domain.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
